@@ -1,7 +1,7 @@
 **Olá Mundo, O meu nome é Débora.**
 
 
-# <a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
+<a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/deboramouradossantos/">
@@ -9,7 +9,9 @@
 </a> 
 
 
-# Seja bem-vindo ao APP HAPPY #
+
+
+<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> Seja bem-vindo ao mundo HAPPY </h2>
 
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 
