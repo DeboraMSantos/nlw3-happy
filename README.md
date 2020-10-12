@@ -1,6 +1,5 @@
-## Hello World, My name is Débora. ##
+## Olá Mundo, O meu nome é Débora. ##
 
-# Seja bem-vindo ao Projeto HAPPY #
 
 <a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,6 +8,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+# Seja bem-vindo ao Projeto HAPPY #
 O projeto tem como objetivo conectar orfanatos e pessoas que queiram visitar um orfanato.
 
 Muitos pensam que é só ir lá e visitar, mas não é.
