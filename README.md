@@ -1,13 +1,13 @@
-## Olá Mundo, O meu nome é Débora. ##
+**Olá Mundo, O meu nome é Débora.**
 
 
-![https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
 <a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/deboramouradossantos/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 
 
 
