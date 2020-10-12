@@ -9,7 +9,9 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-# Seja bem-vindo ao Projeto HAPPY #
+
+
+# Seja bem-vindo ao APP HAPPY #
 
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 
@@ -24,3 +26,5 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 Projeto Desenvolvido em:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+## Obrigada e seja HAPPY ##
