@@ -4,4 +4,4 @@ Muitos pensam que é só ir lá e visitar, mas não é.
 
 Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 
-[Link para visualizar como está ficando o projeto](https://debby-happy.vercel.app/app)
+[Link para visualizar como está ficando o projeto](https://debby-happy.vercel.app)
