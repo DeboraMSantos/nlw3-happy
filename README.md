@@ -9,7 +9,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![Happy](src\images\print-happy.jpeg)
+![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 # Seja bem-vindo ao Projeto HAPPY #
 O projeto tem como objetivo conectar orfanatos e pessoas que queiram visitar um orfanato.
 
