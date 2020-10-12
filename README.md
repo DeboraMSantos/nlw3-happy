@@ -1,17 +1,5 @@
-**Olá Mundo, O meu nome é Débora.**
 
-
-<a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/deboramouradossantos/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
-
-
-
-
-<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> Seja bem-vindo ao mundo HAPPY </h2>
+<h1> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> Seja bem-vindo ao mundo HAPPY </h1>
 
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 
@@ -29,3 +17,12 @@ Projeto Desenvolvido em:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 **Obrigada e seja HAPPY :D**
+
+<a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/deboramouradossantos/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a> 
+
+
