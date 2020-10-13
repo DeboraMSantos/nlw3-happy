@@ -14,7 +14,7 @@ function Landing(){
       <p>Visite orfanatos e mude o dia de muitas crianças.</p>
     </main>
     <div className="location">
-      <strong>Grande ABC e regiões próximas</strong>
+      <strong>Grande ABC e regiões</strong>
       <span>São Paulo</span>
     </div>
 

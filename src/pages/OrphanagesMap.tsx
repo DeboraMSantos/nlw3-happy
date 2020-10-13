@@ -19,7 +19,7 @@ function OrphanagesMap() {
         </header>
 
         <footer>
-          <strong>Grande ABC e regiões próximas</strong>
+          <strong>Grande ABC e regiões</strong>
           <span>São Paulo</span>
         </footer>
 
