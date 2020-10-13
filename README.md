@@ -11,7 +11,7 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 
 [Link para visualizar como está ficando o projeto](https://debby-happy.vercel.app)
 
-## Tecnologias ##
+## <code><img src="https://img.icons8.com/dusk/2x/greentech.png" width="50px" height="50px" align="center"></code> Tecnologias ##
 
 <code><img height="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
 <code><img height="50" src="https://img.icons8.com/dusk/2x/react.png"></code>
@@ -24,10 +24,10 @@ Segundamente a Rocketseat por poder participar de um projeto desses e totalmente
 Obrigada a todos e sejam HAPPY** <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="30px" height="30px" align="center"/>
 
 <a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
-  <img align="center" alt="LinkdeIN" height="50" src="https://img.icons8.com/bubbles/2x/linkedin.png" />
+  <img align="center" alt="LinkdeIN" height="80" src="https://img.icons8.com/bubbles/2x/linkedin.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/deboramouradossantos/">
-  <img align="center" alt="Instagram" height="50" src="https://img.icons8.com/clouds/2x/instagram-new--v2.png" />
+  <img align="center" alt="Instagram" height="80" src="https://img.icons8.com/clouds/2x/instagram-new--v2.png" />
 </a> 
 
 
