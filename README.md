@@ -19,7 +19,8 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 ## Agradecimento ##
-**Obrigada e seja HAPPY :D**
+** Agradeço primeiramente a Deus, por ter me mostrado a Rocketseat e a Rocketseat por poder participar de um projeto desses e totalemnte gratuito.
+Obrigada a todos e seja HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="30px" height="30px" align="center"/>**
 
 <a target="_blank" href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
