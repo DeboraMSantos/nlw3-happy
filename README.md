@@ -13,10 +13,10 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 
 ## Tecnologias ##
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
+<code><img height="50" src="https://img.icons8.com/dusk/2x/react.png"></code>
+<code><img height="50" src="https://img.icons8.com/dusk/2x/css3.png"></code>
+<code><img height="50" src="https://img.icons8.com/dusk/2x/html-5.png"></code>
 
 ## Agradecimento ##
 **Agradeço primeiramente a Deus, por ter me mostrado a Rocketseat.
