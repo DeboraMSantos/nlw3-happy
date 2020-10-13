@@ -1,5 +1,5 @@
 
-# <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> Seja bem-vindo ao mundo HAPPY #
+# <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> Seja bem-vindo(a) ao mundo HAPPY <img src= "https://img.icons8.com/officel/2x/planet.png" width="50px" height="50px" align="center"/> #
 
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 
