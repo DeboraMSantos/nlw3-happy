@@ -14,7 +14,7 @@ function Landing(){
       <p>Visite orfanatos e mude o dia de muitas crianças.</p>
     </main>
     <div className="location">
-      <strong>São Caetano do Sul</strong>
+      <strong>Grande ABC e regiões próximas</strong>
       <span>São Paulo</span>
     </div>
 

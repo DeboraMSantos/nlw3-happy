@@ -19,7 +19,7 @@ function OrphanagesMap() {
         </header>
 
         <footer>
-          <strong>São Caetano do Sul</strong>
+          <strong>Grande ABC e regiões próximas</strong>
           <span>São Paulo</span>
         </footer>
 
