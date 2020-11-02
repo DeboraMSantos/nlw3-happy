@@ -1,7 +1,7 @@
 
 # <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/>Seja bem-vindo(a) ao mundo HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
 
-![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
+![Debfy](https://github.com/DeboraMSantos/debfy/blob/master/public/img/debfy.JPG)
 
 O projeto tem como objetivo conectar orfanatos e pessoas que queiram visitar um orfanato.
 
