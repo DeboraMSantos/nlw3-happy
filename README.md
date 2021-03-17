@@ -28,15 +28,24 @@ Versão 2.0
 
 </p>
 
-## ![Happy] Sobre o Happy
-![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
-![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/vlibras-happy.JPG)
+## 😍 Sobre o Happy
+
 
 O projeto tem como objetivo conectar orfanatos e pessoas que queiram visitar um orfanato.
 
 Muitos pensam que é só ir lá e visitar, mas não é.
 
 Existem regras para serem seguidas e o app informará a regra de cada orfanato.
+
+## 🎨 Layout
+![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
+![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/vlibras-happy.JPG)
+
+## 💡 Melhorias na Aplicação V2.0
+<code><img height="50" src="https://vlibras.gov.br/app/assets/component-ac.png"></code>
+Adicionado como melhoria o <a target="_blank" href="https://www.vlibras.gov.br/doc/widget/installation/webpageintegration.html">VLIBRAS</a>
+
+O VLibras é uma ferramenta de código aberto e distribuição livre que faz a tradução automática da Língua Portuguesa para a Língua Brasileira de Sinais (Libras). Pode ser instalado em qualquer site ou no computador, e também em tablets e smartphones.
 
 
 ## <code><img src="https://img.icons8.com/dusk/2x/greentech.png" width="50px" height="50px" align="center"></code> Tecnologias ##
@@ -47,9 +56,7 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 <code><img height="50" src="https://img.icons8.com/dusk/2x/html-5.png"></code>
 <code><img height="50" src="https://vlibras.gov.br/app/assets/component-ac.png"></code>
 
-Adicionado como melhoria o <a target="_blank" href="https://www.vlibras.gov.br/doc/widget/installation/webpageintegration.html">VLIBRAS</a>
 
-O VLibras é uma ferramenta de código aberto e distribuição livre que faz a tradução automática da Língua Portuguesa para a Língua Brasileira de Sinais (Libras). Pode ser instalado em qualquer site ou no computador, e também em tablets e smartphones.
 
 ## <code><img src="https://img.icons8.com/dusk/2x/handshake.png" width="50px" height="50px" align="center"></code> Agradecimento ##
 **Agradeço primeiramente a Deus, por ter me mostrado a Rocketseat.**
