@@ -49,7 +49,7 @@ Adicionado como melhoria o <a target="_blank" href="https://www.vlibras.gov.br/d
 O VLibras é uma ferramenta de código aberto e distribuição livre que faz a tradução automática da Língua Portuguesa para a Língua Brasileira de Sinais (Libras). Pode ser instalado em qualquer site ou no computador, e também em tablets e smartphones.
 
 
-## <code><img src="https://img.icons8.com/dusk/2x/greentech.png" width="50px" height="50px" align="center"></code> Tecnologias ##
+## 💻 Tecnologias:
 
 <code><img height="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
 <code><img height="50" src="https://img.icons8.com/dusk/2x/react.png"></code>
