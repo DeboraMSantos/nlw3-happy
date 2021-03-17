@@ -2,6 +2,7 @@
 # <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/>Seja bem-vindo(a) ao mundo HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
 
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
+![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/vlibras-happy.JPG)
 
 O projeto tem como objetivo conectar orfanatos e pessoas que queiram visitar um orfanato.
 
@@ -17,6 +18,9 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 <code><img height="50" src="https://img.icons8.com/dusk/2x/react.png"></code>
 <code><img height="50" src="https://img.icons8.com/dusk/2x/css3.png"></code>
 <code><img height="50" src="https://img.icons8.com/dusk/2x/html-5.png"></code>
+
+Adicionado como melhoria o <a target="_blank" href="https://www.vlibras.gov.br/doc/widget/installation/webpageintegration.html">VLIBRAS</a>
+O VLibras é uma ferramenta de código aberto e distribuição livre que faz a tradução automática da Língua Portuguesa para a Língua Brasileira de Sinais (Libras). Pode ser instalado em qualquer site ou no computador, e também em tablets e smartphones.
 
 ## <code><img src="https://img.icons8.com/dusk/2x/handshake.png" width="50px" height="50px" align="center"></code> Agradecimento ##
 **Agradeço primeiramente a Deus, por ter me mostrado a Rocketseat.**
