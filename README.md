@@ -28,6 +28,7 @@ Versão 2.0
 
 </p>
 
+## ![Happy] Sobre o Happy
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/vlibras-happy.JPG)
 
@@ -37,7 +38,6 @@ Muitos pensam que é só ir lá e visitar, mas não é.
 
 Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 
-[Link para visualizar como está ficando o projeto](https://debby-happy.vercel.app)
 
 ## <code><img src="https://img.icons8.com/dusk/2x/greentech.png" width="50px" height="50px" align="center"></code> Tecnologias ##
 
