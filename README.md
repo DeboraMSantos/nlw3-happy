@@ -1,13 +1,14 @@
 
-# HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
-
 <h1 align="center">
-Versão 2.0
+  # HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
 </h1>
+<h2 align="center">
+Versão 2.0
+</h2>
 
 <p align="center">
-  <a href="https://moveit-dms.vercel.app/">
-     Clique aqui para acessar o Move.it
+  <a href="https://debby-happy.vercel.app/">
+     Clique aqui para acessar o Happy
   </a>
 </p>
 
