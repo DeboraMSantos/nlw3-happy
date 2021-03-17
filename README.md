@@ -1,5 +1,29 @@
 
-# <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/>Seja bem-vindo(a) ao mundo HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
+# HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
+
+<h1 align="center">
+Versão 2.0
+</h1>
+
+<p align="center">
+  <a href="https://moveit-dms.vercel.app/">
+     Clique aqui para acessar o Move.it
+  </a>
+</p>
+
+<p align="center">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DeboraMSantos/web">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/web">
+
+  <a href="https://github.com/deboramsantos/web/commits/master">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/web?color=blue">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
+
+</p>
 
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/print-happy.jpeg)
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/vlibras-happy.JPG)
