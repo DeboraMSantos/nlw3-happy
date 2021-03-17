@@ -42,8 +42,9 @@ Existem regras para serem seguidas e o app informará a regra de cada orfanato.
 ![Happy](https://github.com/DeboraMSantos/web/blob/master/src/images/vlibras-happy.JPG)
 
 ## 💡 Melhorias na Aplicação V2.0
-<code><img height="50" src="https://vlibras.gov.br/app/assets/component-ac.png"></code>
-Adicionado como melhoria o <a target="_blank" href="https://www.vlibras.gov.br/doc/widget/installation/webpageintegration.html">VLIBRAS</a>
+
+Adicionado como melhoria o <a target="_blank" href="https://www.vlibras.gov.br/doc/widget/installation/webpageintegration.html">VLIBRAS <code><img height="30" src="https://vlibras.gov.br/app/assets/component-ac.png"></code></a>
+
 
 O VLibras é uma ferramenta de código aberto e distribuição livre que faz a tradução automática da Língua Portuguesa para a Língua Brasileira de Sinais (Libras). Pode ser instalado em qualquer site ou no computador, e também em tablets e smartphones.
 
