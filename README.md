@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  # HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/> #
+  HAPPY <img src= "https://github.com/DeboraMSantos/web/blob/master/src/images/map-marker.svg" width="50px" height="50px" align="center"/><code><img height="50" src="https://vlibras.gov.br/app/assets/component-ac.png"></code>
 </h1>
 <h2 align="center">
 Versão 2.0
